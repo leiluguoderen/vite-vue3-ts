@@ -9,6 +9,12 @@
 
 <script setup lang="ts">
 import { ElButton } from 'element-plus'
+import event from '../service/event';
+import { ref } from 'vue'
+
+
+
+
 </script>
 
 <style lang="less">
